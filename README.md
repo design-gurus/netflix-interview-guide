@@ -86,6 +86,8 @@ This repository gives the outline. The courses and articles below teach each rou
 
 Related free guides: [Netflix levels](https://github.com/design-gurus/software-engineer-levels/blob/main/companies/netflix.md), [Netflix system design interview](https://github.com/design-gurus/grokking-system-design/blob/main/companies/netflix.md), [Grokking the Coding Interview](https://github.com/design-gurus/grokking-coding-interview), and [Staff Engineer Interview](https://github.com/design-gurus/staff-engineer-interview).
 
+For the system design round, see [Grokking System Design](https://github.com/design-gurus/grokking-system-design), the free companion guide with 30 patterns, 59 question walkthroughs, and 35 cheat sheets.
+
 ## Contributing
 
 Corrections, new questions, and reports of how a Netflix loop was run are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
